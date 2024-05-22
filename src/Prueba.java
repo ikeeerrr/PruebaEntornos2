@@ -5,7 +5,8 @@ public class Prueba {
 		// TODO Auto-generated method stub
 		System.out.println("Añado mensaje rama Nueva Funcionalidad");
 		System.out.println("Añado un segundo mensaje rama Nueva Funcionalidad");
-		System.out.println("nuevo desde master");
+		System.out.println("añado mensaje desde funcionalidad");
+
 	}
 
 }
